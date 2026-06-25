@@ -38,8 +38,8 @@ Shipped features to Xpensure, a live cross-platform production app — 150+ acti
 
 Quick builds in Google AI Studio — good for learning fast and shipping something playable:
 - **[Smart SOP assistant](https://github.com/insightsbytanika/Smart-SOP-assistant.git)** 
-- **[Rock paper scissor ](https://github.com/insightsbytanika/Rockpaperscissors.git)** — one-line description
-- **[Game 3 name](link)** — one-line description *(remove if only 2)*
+- **[Rock paper scissor ](https://github.com/insightsbytanika/Rockpaperscissors.git)** 
+  
 
 ---
 
