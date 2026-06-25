@@ -36,7 +36,7 @@ Shipped features to Xpensure, a live cross-platform production app — 150+ acti
 
 ### 🎮 Things I've Shipped for Fun
 
-Quick builds in Google AI Studio — good for learning fast and shipping something playable:
+Quick builds — good for learning fast and shipping something playable:
 - **[Smart SOP assistant](https://github.com/insightsbytanika/Smart-SOP-assistant.git)** 
 - **[Rock paper scissor ](https://github.com/insightsbytanika/Rockpaperscissors.git)** 
   
