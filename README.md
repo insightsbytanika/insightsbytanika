@@ -29,8 +29,13 @@ Financial NLP pipeline on NSE-listed company earnings calls — speaker diarisat
 
 ### 💼 Experience
 
-**Software/Data Intern — Motivus Innovations Pvt. Ltd.**
-Shipped features to Xpensure, a live cross-platform production app — 150+ active users, recognized with an Outstanding Contributor award. Repo is private; happy to walk through the code and design decisions directly.
+**Full Stack Intern — Motivus Innovations Pvt. Ltd.**
+Shipped  Xpensure, a live cross-platform production app
+(Flutter + Django REST + PostgreSQL), adopted org-wide by 150+ employees and eliminating 100% of manual expense workflows.
+Delivered it cross-platform: Android on the Play Store, web at xpensure-web.web.app, plus a SuperAdmin dashboard.
+Built a CI/CD pipeline with GitHub Actions for zero-downtime releases.
+Implemented an AWS SNS & SES notification system.
+Awarded Outstanding Contributor for the work.,  Repo is private; happy to walk through the code and design decisions directly.
 
 ---
 
